@@ -1,0 +1,10 @@
+{
+"moves": [
+"left",
+"right",
+"forward",
+"backward",
+"Pick",
+"Cutt"
+]
+}
